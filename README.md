@@ -2,6 +2,7 @@
 
 ## 📊 Project Overview
 This project focuses on building an end-to-end **Sales Analysis Report** using Power BI to deliver actionable insights for business stakeholders. The report helps monitor sales performance, identify trends, and support data-driven decision-making.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/454eea59-25bb-4971-b329-06007e5713af" />
 
 ---
 
