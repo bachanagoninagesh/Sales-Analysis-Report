@@ -51,6 +51,7 @@ This project focuses on building an end-to-end **Sales Analysis Report** using P
 - Performed **data cleaning and profiling** to ensure data quality
 - Built transformation pipelines for structured reporting
 - Automated refresh schedules for real-time KPI tracking
+## 📷 Demo
 
 ## 🙋‍♂️ Author
 **Nagesh Bachanagoni**  
