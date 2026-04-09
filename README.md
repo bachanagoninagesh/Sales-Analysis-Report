@@ -55,9 +55,9 @@ This project focuses on building an end-to-end **Sales Analysis Report** using P
 
 ## 🎥 Demo Video
 
-<video width="800" controls>
-  <source src="https://raw.githubusercontent.com/bachanagoninagesh/Sales-Analysis-Report/main/USStore_Live_Demo.mp4" type="video/mp4">
-</video>
+<a href="https://drive.google.com/file/d/1MqJ8B7TKjl9G3kMjqcaPej8diMBRzN6I/view?usp=sharing" target="_blank">
+  <img src="https://drive.google.com/thumbnail?id=1MqJ8B7TKjl9G3kMjqcaPej8diMBRzN6I" alt="Watch Demo Video"/>
+</a>
 
 
 ## 🙋‍♂️ Author
