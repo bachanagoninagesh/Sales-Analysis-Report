@@ -56,12 +56,7 @@ This project focuses on building an end-to-end **Sales Analysis Report** using P
 ## 🎥 Demo Video
 
 <a href="https://drive.google.com/file/d/1MqJ8B7TKjl9G3kMjqcaPej8diMBRzN6I/view?usp=sharing" target="_blank">
-  <div style="position:relative; display:inline-block;">
-    <img width="1920" height="1080" alt="Watch Demo Video" src="https://drive.google.com/thumbnail?id=1V1BSfEtVY0AvNek5hJeAKWlUu4d-tOUQ&sz=w1920"/>
-    <div style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); width:80px; height:80px; background:rgba(0,0,0,0.6); border-radius:50%; display:flex; align-items:center; justify-content:center;">
-      <div style="width:0; height:0; border-top:20px solid transparent; border-bottom:20px solid transparent; border-left:35px solid white; margin-left:8px;"></div>
-    </div>
-  </div>
+  <img width="1920" height="1080" alt="Watch Demo Video" src="https://drive.google.com/thumbnail?id=1HUn72Kl0u3kUlCm69t1qt4atKfwjJbFi&sz=w1920"/>
 </a>
 
 
