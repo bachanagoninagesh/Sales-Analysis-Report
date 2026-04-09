@@ -26,6 +26,8 @@ This project focuses on building an end-to-end **Sales Analysis Report** using P
 - Designed a **star schema** with fact and dimension tables
 - Integrated data from multiple sources into a unified model
 - Applied data transformation and cleaning using Power Query
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b78cbed4-aad2-47e4-b035-8cee470bd153" />
+
 
 ---
 
