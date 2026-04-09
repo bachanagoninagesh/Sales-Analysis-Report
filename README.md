@@ -52,7 +52,7 @@ This project focuses on building an end-to-end **Sales Analysis Report** using P
 - Built transformation pipelines for structured reporting
 - Automated refresh schedules for real-time KPI tracking
 ## 📷 Demo
-
+<https://github.com/bachanagoninagesh/Sales-Analysis-Report/blob/main/USStore_Live_Demo.mp4>
 ## 🙋‍♂️ Author
 **Nagesh Bachanagoni**  
 Data Analyst | Power BI Developer  
