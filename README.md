@@ -56,7 +56,7 @@ This project focuses on building an end-to-end **Sales Analysis Report** using P
 ## 🎥 Demo Video
 
 <a href="https://drive.google.com/file/d/1MqJ8B7TKjl9G3kMjqcaPej8diMBRzN6I/view?usp=sharing" target="_blank">
-  <img src="https://drive.google.com/thumbnail?id=1MqJ8B7TKjl9G3kMjqcaPej8diMBRzN6I" alt="Watch Demo Video"/>
+  <img src="https://drive.google.com/thumbnail?id=1MqJ8B7TKjl9G3kMjqcaPej8diMBRzN6I" alt="Watch Demo Video" width="600"/>
 </a>
 
 
