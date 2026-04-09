@@ -52,11 +52,12 @@ This project focuses on building an end-to-end **Sales Analysis Report** using P
 - Built transformation pipelines for structured reporting
 - Automated refresh schedules for real-time KPI tracking
 
-## 📷 Demo
-<iframe src="[https://drive.google.com/file/d/1a2b3c4d5e6f7g8h9i/preview](https://drive.google.com/file/d/1MqJ8B7TKjl9G3kMjqcaPej8diMBRzN6I/view?usp=sharing)" width="100%" height="600" allow="autoplay"></iframe>
+## 🎥 Demo Video
 
-
+[![Watch Demo](https://img.youtube.com/vi/dummy/0.jpg)](https://drive.google.com/file/d/1MqJ8B7TKjl9G3kMjqcaPej8diMBRzN6I/view?usp=sharing)
 ## 🙋‍♂️ Author
+
+
 **Nagesh Bachanagoni**  
 Data Analyst | Power BI Developer  
 
