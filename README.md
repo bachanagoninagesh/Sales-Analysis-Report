@@ -61,8 +61,10 @@ This project focuses on building an end-to-end **Sales Analysis Report** using P
 
 
 ## 🙋‍♂️ Author
-**Nagesh Bachanagoni**  
-Data Analyst | Power BI Developer  
+**Nagesh Bachanagoni** — Data Analyst / BI Developer
+📧 nageshbachanagoni@gmail.com
+🔗 [LinkedIn](www.linkedin.com/in/nagesh-bachanagoni-b84346153) · [Portfolio](https://bachanagoninagesh.github.io/)
+
 
 ---
 
